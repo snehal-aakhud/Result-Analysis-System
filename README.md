@@ -4,7 +4,7 @@
 is a web-based application developed using **PHP and MySQL** that allows colleges to manage student results in a structured and professional way.  
 The system provides secure logins for students and admins, subject-wise mark entry, and automatic result analysis with a clean, mobile-friendly interface.  
 
-----------------------
+--------------------------
 ## 🚀 Features  
 
 ✅ **Student Registration & Login**– Secure access with enrollment number and password.  
